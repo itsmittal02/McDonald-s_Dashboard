@@ -1,4 +1,4 @@
-# **McDonald-s_Dashboard**
+# **McDonald's_Dashboard**
 McDonald's Milestone Project using Advanced MS Excel.
 
 🍔 McDonald's Milestone Project – Advanced Excel Dashboard & Analysis
