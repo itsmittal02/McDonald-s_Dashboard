@@ -1,12 +1,12 @@
-# **McDonald's_Dashboard**
+# McDonald's_Dashboard
 McDonald's Milestone Project using Advanced MS Excel.
 
 🍔 McDonald's Milestone Project – Advanced Excel Dashboard & Analysis
 
-📊 **Project Overview**
+📊 Project Overview
 This project presents an in-depth sales and performance analysis for McDonald's using Advanced Microsoft Excel techniques. The goal is to uncover business insights, visualize key performance indicators (KPIs), and recommend strategies for operational growth based on data-driven decisions.
 
-🎯 **Key Objectives**
+🎯 Key Objectives
 . Analyze sales performance across categories, time, and locations
 
 . Identify peak hours, weekday vs. weekend patterns, and monthly trends
@@ -15,7 +15,7 @@ This project presents an in-depth sales and performance analysis for McDonald's 
 
 . Leverage Excel automation and dashboards for real-time monitoring
 
-🛠️ **Tools & Techniques Used**
+🛠️ Tools & Techniques Used
 Advanced Excel Features: Pivot Tables, Power Query, Named Ranges, Data Validation
 
 Interactive Dashboards: Slicers, Charts, Conditional Formatting
@@ -24,7 +24,7 @@ Data Cleaning & Transformation: Using Power Query (M Language)
 
 Dynamic Analysis: Time-based trends, category comparisons, KPI tracking
 
-**📌 Features Included**
+📌 Features Included
 📅 Monthly & Seasonal Revenue Insights
 
 🌞 Peak Hour & Daypart Sales Trends
@@ -37,7 +37,7 @@ Dynamic Analysis: Time-based trends, category comparisons, KPI tracking
 
 
 
-**🧠 Insights & Recommendations
+🧠 Insights & Recommendations
 Maximize peak-hour sales through targeted promotions
 
 Improve breakfast category with menu optimization
